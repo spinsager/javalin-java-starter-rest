@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8fe6facee8ed44d8b7ee52a3f16f75b2)](https://app.codacy.com/gh/spinsage/javalin-java-starter-rest?utm_source=github.com&utm_medium=referral&utm_content=spinsage/javalin-java-starter-rest&utm_campaign=Badge_Grade)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://travis-ci.com/spinsage/javalin-java-starter-rest.svg?branch=main)](https://travis-ci.com/spinsage/javalin-java-starter-rest)
 [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/javalin-java-starter-rest/branches/main/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/javalin-java-starter-rest/branches/main)
