@@ -1,4 +1,6 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://travis-ci.com/spinsage/javalin-java-starter-rest.svg?branch=main)](https://travis-ci.com/spinsage/javalin-java-starter-rest)
+[![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/javalin-java-starter-rest/branches/main/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/javalin-java-starter-rest/branches/main)
 
 # Javalin (Java) Rest API Starter
 
