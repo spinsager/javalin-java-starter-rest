@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/spinsage/javalin-java-starter-rest.svg?branch=main)](https://travis-ci.com/spinsage/javalin-java-starter-rest)
+
 # Javalin (Java) Rest API Starter
 
 Boilerplate maven project for bootstrapping development of a Rest API application with Javalin using Java as the programming language.
