@@ -31,7 +31,6 @@ public class Product {
 
     public static ProductBuilder builder() {
         return new ProductBuilder();
-
     }
 
     public static class ProductBuilder {
