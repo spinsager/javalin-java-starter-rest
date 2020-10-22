@@ -31,11 +31,10 @@ public class Product {
 
     public static ProductBuilder builder() {
         return new ProductBuilder();
-
     }
 
     public static class ProductBuilder {
-        Product product;
+        private Product product;
 
         public ProductBuilder() {
             product = new Product();
